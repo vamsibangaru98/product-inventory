@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "firstName": "vamsi",
+      "lastName": "bangaru",
+      "email": "vamsi@gmail.com",
+      "password": "vamsi123",
+      "mobileNumber": 7730980087,
+      "location": "hyderabad",
+      "id": 1689138221822
+    }
+  ],
+  "cart": [
+    {
+      "productName": "Moto G5",
+      "quantity": 2,
+      "price": "5000",
+      "manufacturer": "Galaxy",
+      "productDescription": "Motorola Moto G5 ; Chipset, Qualcomm MSM8937 Snapdrago",
+      "id": 1676701007092
+    }
+  ],
+  "products": [
+    {
+      "id": 1676701007092,
+      "productName": "Moto G5",
+      "productDescription": "Motorola Moto G5 ; Chipset, Qualcomm MSM8937 Snapdrago",
+      "manufacturer": "Galaxy",
+      "price": "5000",
+      "quantity": 5
+    },
+    {
+      "id": 1678424310727,
+      "productName": "Skechers",
+      "productDescription": "Wipe with clean cloth , Synthetic upper",
+      "manufacturer": "Campussutra Retail Private",
+      "price": "2028",
+      "quantity": 3,
+      "views": 21
+    },
+    {
+      "id": 1678424511510,
+      "productName": "Marcia",
+      "productDescription": "Product Color May Sightly Vary Due To Photographic Lighting Sources Or Your Monitor Settings",
+      "manufacturer": "S S Fashion",
+      "price": "624",
+      "quantity": 2,
+      "views": 6
+    },
+    {
+      "id": 1678424745874,
+      "productName": "Gant",
+      "productDescription": "Machine wash , Package contains : 1 coat",
+      "manufacturer": "Iconic Fashion Retailing Private Limited",
+      "price": "48,000",
+      "quantity": 1,
+      "views": 1
+    },
+    {
+      "id": 1678424926536,
+      "productName": "Jeans",
+      "productDescription": "Denim, Machine wash cold",
+      "manufacturer": "East Topisa Road, Kolkata",
+      "price": "936",
+      "quantity": 1,
+      "views": 2
+    },
+    {
+      "productName": "out",
+      "productDescription": "qwert",
+      "manufacturer": "apple",
+      "price": "30000",
+      "quantity": 1,
+      "id": 1681366637134
+    },
+    {
+      "productName": "iPhone",
+      "productDescription": "iOS 16",
+      "manufacturer": "Apple",
+      "price": "69999",
+      "quantity": 2,
+      "id": 1689138309880
+    }
+  ]
+}
