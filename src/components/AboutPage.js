@@ -49,7 +49,6 @@ const AboutPage = () => {
               <p>
                 Don't go anywhere to purchase the world's interesting and innovative goods, just use this website | here you can purchase what you want with the best prices, ensuring the best quality with top brands including amazing offers.
                 Order from anywhere and collect at your door with no delivery charges :)
-
               </p>
             </Card>
           </Col>
